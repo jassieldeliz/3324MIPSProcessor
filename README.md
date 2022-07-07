@@ -1,4 +1,4 @@
-# Multicycle Pipelined MIPS Processor
+# Pipelined MIPS Processor
 
 Hi there! This repo is the final result of a month-long endeavor to pipeline a single-cycle MIPS processor. This was done as a part of my computer architecture class, and encompasses a total of about 25 different hardware modules, all grouped together in the cpu5.v top file. This processor has support for 18 MIPS-style opcodes which are shown in the table below.
 
